@@ -2,6 +2,8 @@
 
 A web-based chatbot that summarizes text using the Hugging Face Transformers library. Built with Flask (Python), Bootstrap (HTML/CSS), and the T5 model for text summarization.
 
+**Note**: This project is for **practice purposes only** and is not intended for production use. It was created to improve my skills in web development, NLP, and working with APIs.
+
 ## Features
 - **Text Summarization**: Summarizes up to 800 words of input text.
 - **User-Friendly Interface**: Clean and responsive UI built with Bootstrap.
