@@ -1,4 +1,3 @@
-```markdown
 # Text Summarizer Chatbot
 
 A web-based chatbot that summarizes text using the Hugging Face Transformers library. Built with Flask (Python), Bootstrap (HTML/CSS), and the T5 model for text summarization.
